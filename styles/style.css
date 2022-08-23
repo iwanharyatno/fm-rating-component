@@ -24,6 +24,7 @@ main {
   align-items: center;
   max-width: 1440px;
   height: calc(100vh - 3rem);
+  margin: 0 auto;
 }
 
 h2 {
