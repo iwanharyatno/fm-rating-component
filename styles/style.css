@@ -60,6 +60,7 @@ p {
 }
 
 .btn-rate {
+  cursor: pointer;
   border: none;
   background-color: var(--color-secondary);
   width: 2.5rem;
@@ -79,6 +80,7 @@ p {
 }
 
 .btn-primary {
+  cursor: pointer;
   margin-top: 1rem;
   width: 100%;
   border: none;
